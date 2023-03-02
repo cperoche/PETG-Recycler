@@ -1,0 +1,106 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:Title page-Layout1]
+DWG=C:\Users\user\Desktop\PET recycler\From 0216 drawings\Title page.dwg
+Layout=Layout1
+Setup=test2
+OriginalSheetPath=C:\Users\user\Desktop\PET recycler\From 0216 drawings\Title page.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:OVERALL WIRING-Layout1]
+DWG=C:\Users\user\Desktop\PET recycler\From 0216 drawings\OVERALL WIRING.dwg
+Layout=Layout1
+Setup=test2
+OriginalSheetPath=C:\Users\user\Desktop\PET recycler\From 0216 drawings\OVERALL WIRING.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:POWER SUPLY-Layout1]
+DWG=C:\Users\user\Desktop\PET recycler\From 0216 drawings\POWER SUPLY.dwg
+Layout=Layout1
+Setup=test2
+OriginalSheetPath=C:\Users\user\Desktop\PET recycler\From 0216 drawings\POWER SUPLY.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:FAN & HEATER-Layout1]
+DWG=C:\Users\user\Desktop\PET recycler\From 0216 drawings\FAN & HEATER.dwg
+Layout=Layout1
+Setup=test2
+OriginalSheetPath=C:\Users\user\Desktop\PET recycler\From 0216 drawings\FAN & HEATER.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MOTOR DRIVER-Layout1]
+DWG=C:\Users\user\Desktop\PET recycler\From 0216 drawings\MOTOR DRIVER.dwg
+Layout=Layout1
+Setup=test2
+OriginalSheetPath=C:\Users\user\Desktop\PET recycler\From 0216 drawings\MOTOR DRIVER.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:VCC-Layout1]
+DWG=C:\Users\user\Desktop\PET recycler\From 0216 drawings\VCC.dwg
+Layout=Layout1
+Setup=test2|C:\Users\user\Desktop\PET recycler\From 0216 drawings\POWER SUPLY.dwg
+OriginalSheetPath=C:\Users\user\Desktop\PET recycler\From 0216 drawings\VCC.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MEGA1-Layout1]
+DWG=C:\Users\user\Desktop\PET recycler\From 0216 drawings\MEGA1.dwg
+Layout=Layout1
+Setup=test2|C:\Users\user\Desktop\PET recycler\From 0216 drawings\POWER SUPLY.dwg
+OriginalSheetPath=C:\Users\user\Desktop\PET recycler\From 0216 drawings\MEGA1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:MEGA2-Layout1]
+DWG=C:\Users\user\Desktop\PET recycler\From 0216 drawings\MEGA2.dwg
+Layout=Layout1
+Setup=test2|C:\Users\user\Desktop\PET recycler\From 0216 drawings\POWER SUPLY.dwg
+OriginalSheetPath=C:\Users\user\Desktop\PET recycler\From 0216 drawings\MEGA2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\user\Desktop\PET recycler\Revision1.pdf
+OUT=C:\Users\user\Documents\
+PWD=
+[AcePublish]
+IncludeBookmarks=FALSE
+IncludeHyperlinks=FALSE
+ZoomFactor=50
+TempFolder=C:\Users\user\AppData\Local\Temp\AcePub_4288011\
+OriginWdpPath=C:\Users\user\Desktop\PET recycler\PET recycler\PET recycler.wdp
+OriginMdbPath=C:\Users\user\AppData\Roaming\Autodesk\AutoCAD Electrical 2022\R24.1\enu\Support\user\PET recycler.mdb
+TempWdpPath=C:\Users\user\AppData\Local\Temp\AcePub_4288011\PET recycler.wdp
+TempMdbPath=
+[PdfOptions]
+IncludeHyperlinks=FALSE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ACADE>>
+CategoryName=
+LogFilePath=
+IncludeLayer=FALSE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
